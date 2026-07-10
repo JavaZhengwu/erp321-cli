@@ -1,0 +1,11 @@
+{
+  "name": "opencli-plugin-erp321",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "聚水潭 ERP OpenCLI 适配器插件",
+  "keywords": ["opencli", "opencli-plugin", "erp321", "聚水潭", "erp"],
+  "license": "MIT",
+  "peerDependencies": {
+    "@jackwener/opencli": ">=1.8.6"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "erp321",
+  "version": "1.0.0",
+  "description": "聚水潭 ERP (www.erp321.com / epaas) 的 OpenCLI 适配器：商品查询、Excel 导入、批量改图，以及导入+改图组合命令。",
+  "opencli": ">=1.8.6"
+}
